@@ -147,6 +147,6 @@
   });
 
 
-  app.listen(3000, function() {
-    console.log("Server started with port 3000")
+  app.listen(0.0.0.0:$PORT, function() {
+    console.log("Server started the application")
   });
