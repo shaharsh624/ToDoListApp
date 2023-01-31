@@ -10,12 +10,15 @@
 Used HTML5, CSS3, Bootstrap, Node.js, Express.js, MongoDB (mongoose), EJS template engine, Lodash utility functions and JavaScript
 
 # How to use the application
-* The default list comes with a heading called **"Today"**
-![](images/image-1.png)
-* The user can change the heading according to the requirement. **For Example:-** If the user want to use a list for work,  **/work** can be added as a suffix in the URL
-![](images/image-2.png)
-* An example to open a new To-Do List to add items based on work*
-![](images/image-3.png)
+* The default list comes with a heading called **"Today"**.
+
+![](images/image-1.jpg)
+* The user can change the heading according to the requirement. **For Example:-** If the user want to use a list for work,  **/Work** can be added as a suffix in the URL.
+
+![](images/image-2.jpg)
+* An example to open a new To-Do List to add items based on **Work**
+
+![](images/image-3.jpg)
 * To add an item, the user can click on the placeholder **New Item** and type the item which needs to be added
 * After typing it, the user can click on **'+'** button to add it in the list
 * When the user is done with the work mentioned in the list or if the user want to delete the item from the list, they can click on the **checkbox** beside that item and the item gets a strikethrough and gets deleted automatically
@@ -23,3 +26,8 @@ Used HTML5, CSS3, Bootstrap, Node.js, Express.js, MongoDB (mongoose), EJS templa
 # Important Note
 * The To-Do list app have a default page with **Today** as the title. If the user navigate to **/work** list, the item added in work list won't appear in any other list, say **/shopping** list.
 * The item added in a particular list will be persisted when the user navigates to different lists.
+
+# How to Run
+* Execute the command ***npm i*** to install all modules.
+* To run the application on port 3000 type ***node app.js***.
+* Headover to the browser and go to **http://localhost:3000**
