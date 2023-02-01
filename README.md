@@ -29,7 +29,10 @@ Used HTML5, CSS3, Bootstrap, Node.js, Express.js, MongoDB (mongoose), EJS templa
 
 # How to Run
 * **Download** and **Un-Zip** the file.
-* **cd** to the location in terminal.
-* Execute the command ***npm i*** to install all modules.
-* To run the application on port 3000 type ***node app.js***.
-* Headover to the browser and go to **http://localhost:3000**
+* ```cd``` to the location in terminal.
+* Execute the command ```npm install``` to install all modules.
+* To run the application on port 3000 type ```node app.js```.
+* Headover to the browser and go to **http://localhost:3000/**
+
+## Running Test Cases
+- Run ```npm run test``` to run the test
