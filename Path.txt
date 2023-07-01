@@ -1,1 +1,1 @@
-C:/Users/harsh/'OneDrive - pdpu.ac.in'/HARSH/CODE/'Web Development'/Projects/'S28-to-do-list'
+cd '/d/Web Development/PROJECTS/S28-to-do-list'
