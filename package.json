@@ -10,10 +10,17 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
+<<<<<<< HEAD
     "dotenv": "^16.3.1",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "lodash": "^4.17.11",
     "mongoose": "^7.3.1"
+=======
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.3.4"
+>>>>>>> 5510b3ae81a8f0c833c8565c36dd4c997803eaea
   }
 }
